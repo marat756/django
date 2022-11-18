@@ -1,3 +1,3 @@
-# pythondan darlik (Chart)
+# pythondan darlik (Chart).
 ## GOOD
 
