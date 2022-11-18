@@ -1,2 +1,3 @@
-# Python Socket Kursi(Project darslik)
+# pythondan darlik (Chart)
 ## GOOD
+
